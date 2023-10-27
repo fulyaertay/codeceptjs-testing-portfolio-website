@@ -1,4 +1,4 @@
-## A Codecept JS project to test my [My portfolio website](https://fulyaertay.netlify.app/) 
+## A Codecept JS project to test my [my portfolio website](https://fulyaertay.netlify.app/) 
 
 ## Test Results
 I tested my portfolio website to validate CTA button clicks using Codecept JS and Mochawesome Reporter
