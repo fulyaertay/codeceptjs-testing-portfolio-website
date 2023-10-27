@@ -7,7 +7,7 @@ I tested my portfolio website to validate CTA button clicks using Codecept JS an
 
 
 ## Features
-- I produced 7 scenorios to validate button clicks. Each section has own scenorios. These are; Menu bar, header or jumbotron, my projects, about, get in touch and footer sections. 
+- I produced 7 scenarios to validate button clicks. Each section has own scenarios. These are; Menu bar, header or jumbotron, my projects, about, get in touch and footer sections. 
 - You can reach all test cases on ./tests folder
 - All test resuls are on the ./output/mochawesome.html file
 
