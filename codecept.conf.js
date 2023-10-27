@@ -8,11 +8,11 @@ setCommonPlugins();
 
 /** @type {CodeceptJS.MainConfig} */
 exports.config = {
-  tests: './tests',
+  tests: './tests/**/*.js',
   output: './output',
   helpers: {
     Puppeteer: {
-      url: 'https://fulyaertay.netlify.app/',
+      url: 'https://fulyaertay.netlify.app',
       show: true,
       windowSize: '1200x900'
     }
