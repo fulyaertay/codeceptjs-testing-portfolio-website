@@ -20,5 +20,10 @@ exports.config = {
   include: {
     I: './steps_file.js'
   },
+  "mocha": {
+    "reporterOptions": {
+        "reportDir": "output"
+    }
+  },
   name: 'codeceptjs-testing-portfolio-website'
 }
