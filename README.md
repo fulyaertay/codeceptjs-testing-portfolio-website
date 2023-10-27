@@ -1,4 +1,4 @@
-## [Live Link](https://fulyaertay.netlify.app/) website is tested using Codecept JS
+## [My portfolio website](https://fulyaertay.netlify.app/) is tested using Codecept JS
 
 ## Test Results
 I tested my portfolio website CTA button clicks using Codecept JS and Mochawesome Reporter
