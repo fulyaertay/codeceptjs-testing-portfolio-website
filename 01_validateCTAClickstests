@@ -1,0 +1,5 @@
+Feature('01_validateCTAClicks');
+
+Scenario('test something',  ({ I }) => {
+
+});
