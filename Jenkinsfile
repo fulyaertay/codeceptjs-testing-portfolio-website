@@ -3,7 +3,8 @@ pipeline {
   stages {
     stage('test') {
       steps {
-        bat 'call npx codeceptjs run --reporter mochawesome'
+        bat 'npm install'
+        bat 'npx codeceptjs run --reporter mochawesome'
       }
     }
 
